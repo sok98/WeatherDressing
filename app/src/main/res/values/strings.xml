@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherDressing</string>
+    <string name="kakao_app_key">0cebb88e92b481b04a785f54bc313433</string>
+</resources>
